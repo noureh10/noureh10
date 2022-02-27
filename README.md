@@ -1,17 +1,20 @@
-<h2> Let me talk about myself </h2>
+<h2> Hello stranger !</h2>
 
-👋 Hi, my name is Nour Echaâra,I'm 19 and I'm a first year student in computer science at the HE2B-ESI (Ecole Supérieure d'Informatique).
+👋 Hi <br/>
 
+My name is Nour Echaâra, I'm 19 and I'm a first year student in computer science at the HE2B-ESI (Ecole Supérieure d'Informatique).
 
-I always loved automation and my line of thought is if the machine can do it then it will do it. I first started scripting 
-with Windows Batch which is such an easy and powerful tool to use. I mainly used it to perform repetitive tasks and I fell
-in love with its simplicity.
+On my profile you'll mainly find all my personal projects. I look at some Python repositories on my lost hours. As some wise 
+man once said, curiosity is the wick in the candle of learning 
 
-I reached a ceilling with batch when I was interested in web automation, some of my friends told me about Selenium and the tool's perks.
-So I jumped into the Python universe and its wonders. I started writing some scripts to automate boring processes and also to scrape data
-of websites. Right now I'm learning on my own about advanced Python concepts as well as some data structure.
 
 <h2> Useful links </h2>
+
+
+You'll find there anything you need if you need to contact me or if you're just curious.<br />
+
+
+
 <a href="https://www.instagram.com/noureh10/?hl=en">My Instagram</a><br />
 <a href="https://www.linkedin.com/in/nour-echa%C3%A2ra-406b13225/?locale=en_EN">My Linkedin</a><br />
 <a href="https://example.com">My portfolio</a><br />
