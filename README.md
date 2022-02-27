@@ -11,9 +11,10 @@ I reached a ceilling with batch when I was interested in web automation, some of
 So I jumped into the Python universe and its wonders. I started writing some scripts to automate boring processes and also to scrape data
 of websites. Right now I'm learning on my own about advanced Python concepts as well as some data structure.
 
-<h3> Useful links </h3>
-- Contact me trough [Instagram](https://www.instagram.com/noureh10/?hl=en)
-- Check my [portfolio]() 
+<h2> Useful links </h2>
+<a href="https://www.instagram.com/noureh10/?hl=en">My Instagram</a><br />
+<a href="https://www.linkedin.com/in/nour-echa%C3%A2ra-406b13225/?locale=en_EN">My Linkedin</a><br />
+<a href="https://example.com">My portfolio</a><br />
 
 
 <!---
