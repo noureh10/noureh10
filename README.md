@@ -11,7 +11,7 @@ man once said, curiosity is the wick in the candle of learning
 <h2> Useful links </h2>
 
 
-You'll find there anything you need if you need to contact me or check at my references <br />
+You'll find there anything you need if you need to contact me or check my references <br />
 
 
 
