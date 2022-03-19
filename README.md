@@ -2,7 +2,7 @@
 
 👋 Hi <br/>
 
-My name is Nour Echaâra, I'm 19 and I'm a first year student in computer science at the HE2B-ESI (Ecole Supérieure d'Informatique).
+My name is Nour Echaâra, I'm 19 and I'm a programming enthusiast studying in, you guessed it, computer science.
 
 On my profile you'll mainly find all my personal projects. I look at some Python repositories on my lost hours. As some wise 
 man once said, curiosity is the wick in the candle of learning 
