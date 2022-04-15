@@ -1,23 +1,15 @@
-<h2> Hello stranger !</h2>
+## Hello stranger !
 
 👋 Hi <br/>
 
-My name is Nour Echaâra, I'm 19 and I'm a programming enthusiast studying in, you guessed it, computer science.
+My name is Nour and welcome to my Github page.
 
-On my profile you'll mainly find all my personal projects. I look at some Python repositories on my lost hours. As some wise 
-man once said, curiosity is the wick in the candle of learning 
+I'm a student in Computer Science and a tech enthusiast. Here, you'll find all my personal projects
+(mostly written in Python, Batch or Java).
 
+## Useful link
 
-<h2> Useful links </h2>
-
-
-You'll find there anything you need if you need to contact me or check my references <br />
-
-
-
-<a href="https://www.instagram.com/noureh10/?hl=en">My Instagram</a><br />
-<a href="https://www.linkedin.com/in/nour-echa%C3%A2ra-406b13225/?locale=en_EN">My Linkedin</a><br />
-<a href="https://noureh10.github.io/">My website</a><br />
+If you have some spare time, have a look at <a href="https://noureh10.github.io/">my website</a> !<br />
 
 
 <!---
