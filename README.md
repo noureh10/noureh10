@@ -2,10 +2,9 @@
 
 👋 Hi <br/>
 
-My name is Nour and welcome to my Github page.
+My name is Nour and welcome to my Github profile.
 
-I'm a student in Computer Science and a tech enthusiast. Here, you'll find all my personal projects
-(mostly written in Python, Batch or Java).
+I'm a student at 19 Campus from the 42 Network. Here lies all my personal repositories as well as my 42 project.
 
 ## Useful link
 
