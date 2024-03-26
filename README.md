@@ -4,7 +4,7 @@
 
 My name is Nour and welcome to my Github profile.
 
-I'm a student at 19 Campus from the 42 Network. Here lies all my personal repositories as well as my 42 project.
+I'm a student at 19 Campus from the 42 Network. Here lies all my personal repositories as well as my 42 school projects.
 
 ## Useful link
 
